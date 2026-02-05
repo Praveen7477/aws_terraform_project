@@ -9,6 +9,13 @@ This mini project provisions a basic AWS infrastructure using Terraform.
 - Route Table
 - Security Group
 - EC2 Instance (with user data)
+- ALB
+- S3
+- IAM
+
+## Architecture Diagram
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9c547697-666a-4081-b502-18f42f2aea6c" />
+
 
 ## Files
 - `main.tf` – Defines AWS resources
