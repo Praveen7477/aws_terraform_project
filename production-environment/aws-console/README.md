@@ -3,7 +3,7 @@
 This repository documents a **production-grade AWS architecture** commonly used in real-world environments to host **secure, highly available, and scalable web applications**.
 
 The design follows **AWS Well-Architected Framework best practices** and reflects how applications are deployed in **enterprise AWS production environments**.
-
+ 
 ---
 
 ## 🏗️ Architecture Overview
@@ -57,7 +57,8 @@ This architecture is widely adopted in AWS production environments because it:
 
 ## 📊 Architecture Diagram
 
-![AWS Production Architecture]
+<img width="1536" height="1024" alt="f5a9369f-1f03-4f13-b4c4-03b2b5a54904" src="https://github.com/user-attachments/assets/db949a02-e114-4b87-be39-8690b86ab249" />
+
 
 
 ---
@@ -67,7 +68,7 @@ This architecture is widely adopted in AWS production environments because it:
 A complete **step-by-step implementation guide** is included as a PDF document.
 
 📘 **AWS Production Architecture – Implementation Steps**  
-➡️ [View the full PDF guide](production-environment/aws-production-infra.doc)
+➡️ [View the full PDF guide](production-environment/aws-console/AWS_production-infra.docx)
 
 The document covers:
 - VPC and subnet creation
