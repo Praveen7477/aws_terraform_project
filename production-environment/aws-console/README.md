@@ -68,7 +68,7 @@ This architecture is widely adopted in AWS production environments because it:
 A complete **step-by-step implementation guide** is included as a PDF document.
 
 📘 **AWS Production Architecture – Implementation Steps**  
-➡️ [View the full PDF guide](/AWS_production-infra.docx)
+➡️ [View the full PDF guide](aws_terraform_project/production-environment/aws-console//AWS_production-infra.docx)
 
 The document covers:
 - VPC and subnet creation
